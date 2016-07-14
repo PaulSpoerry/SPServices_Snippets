@@ -1,6 +1,6 @@
 # SPServices_Snippets
 
-Ensure that your site has JQuery available and that you can connect to the SPServices CDN (aka it's not blocked). Then include any script or add them to the Chrome dev tools snippets section. 
+Ensure that your site has JQuery available and that you can connect to the SPServices CDN (ensure it's not blocked). Then include any script or add them to the Chrome dev tools snippets section. 
 
 # SPServices_SubsiteIterator
 Use SPServices to iterate and list all subsites from a given site (that you have permission to view)
